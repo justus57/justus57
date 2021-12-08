@@ -1,5 +1,5 @@
 Am a software Developer and Technical Consultant.
 Experienced with all stages of the development cycle for both
 dynamic web and mobile projects. 
-Well-versed in numerous programming, languages including HTML5, PHP OOP, JAVA,c#,Python, JavaScript, CSS, MySQL, Nav Development,jquery. 
+Well-versed in numerous programming, languages including HTML5, PHP OOP,React Native,JAVA,c#,Python, JavaScript, CSS, MySQL, Nav Development,jquery. 
 Strong background in project management and customer relations.
